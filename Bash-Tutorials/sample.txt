@@ -1,0 +1,2 @@
+Hi mi name is Juan and I am trying to learn bash script against my will
+Please help me out!
